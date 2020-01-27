@@ -1,0 +1,40 @@
+h1 {color: purple;
+    font-size: 56px;
+    font-style:inherit;
+    border: 3px solid rosybrown;
+    background-color:antiquewhite;
+    border-radius: 5px;
+    padding:20px
+         }
+     img {
+          border: rgb(59, 2, 59) 3px solid ;
+          border-radius: 10%
+         }
+     h2{
+         color:rgb(112, 34, 34);
+         font-size: 32px;
+         font-style: italic
+     }
+     article{
+         border: 5px solid rgb(90, 95, 109);
+         border-radius: 10px;
+         margin: 5px;
+         background-color: rgb(91, 107, 155) ;
+         padding: 10px
+
+     }
+     body{
+         background-color:rgb(146, 105, 112)
+     }
+     header{
+         font-size: 20px;
+         font-style: initial;
+        background-color: rgb(212, 193, 99)
+     }
+     nav{
+         font-style: inherit;
+         background-color: rgb(27, 95, 95)
+     }
+     li{
+         list-style-type: none
+     }
